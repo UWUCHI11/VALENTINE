@@ -250,7 +250,7 @@ const animationTimeline = () => {
       },
       0.3
     )
-    .to(".six", 0.5, {
+    .to(".six", 1.0, {
       opacity: 0,
       y: 30,
       zIndex: "-1",
