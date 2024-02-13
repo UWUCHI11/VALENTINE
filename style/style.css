@@ -23,7 +23,7 @@ body {
 }
 
 .container div.six .girl-dp {
-  width: 150px; /* Adjust the width as needed */
+  width: auto; /* Adjust the width as needed */
   height: auto; /* Maintain aspect ratio */
 }
 
