@@ -22,6 +22,11 @@ body {
   z-index: 1;
 }
 
+.container div.six .girl-dp {
+  width: 200px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .container div.seven,
 .container div.eight {
   width: 100vw;
